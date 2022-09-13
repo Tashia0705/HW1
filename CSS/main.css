@@ -50,9 +50,12 @@ appearing on top of the table */
   padding-top: 95px;
   padding-bottom: 25px;
 }
-
 /* fix the position of the third table so it appears next to image 3 */
 .table3 {
   border-collapse: collapse;
   margin-top: -410px;
+}
+/* fix the postion of the CSS Validator icon */
+p {
+  padding-top: 300px;
 }
